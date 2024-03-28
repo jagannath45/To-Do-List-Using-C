@@ -9,7 +9,7 @@ struct Task {
 
 // Function to add a new task
 // void addTask(struct Task tasks[], int *taskCount) {
-//     // Implementation to add a new task
+//     // Implementation to add a new task  ====================
 // }
 void addTask(struct Task tasks[], int *taskCount) {
     if (*taskCount < 100) {
